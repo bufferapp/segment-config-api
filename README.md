@@ -4,6 +4,11 @@ A minimal wrapper for Segment's config API.
 
 The library is designed as a [Fluent interface](https://en.wikipedia.org/wiki/Fluent_interface) around the REST API. It consists of models that are designed execute API calls within the scope of parent models.
 
+## Installation
+
+```
+pip install segment-config-api
+```
 
 ## Usage
 
